@@ -223,6 +223,7 @@ as well as many other open source packages, on [pub.dev][].
  1. The `pubspec.yaml` file manages the assets and dependencies
     for a Flutter app. In `pubspec.yaml`, add `english_words`
     (3.1.5 or higher) to the dependencies list:
+    (Positive sign indicates that this line has been added and should not be written.)
 
     <?code-excerpt path-base="codelabs/startup_namer_null_safety"?>
     <?code-excerpt "{step1_base,step2_use_package}/pubspec.yaml" diff-u="4" from="dependencies" to="english"?>
